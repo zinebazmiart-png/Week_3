@@ -81,3 +81,12 @@ main > section > div > figure > figcaption{
 main > section + section + section{
     padding: 3rem 5%;
 }
+main > section + section + section > div{
+    margin-bottom: 2rem;
+}
+main > section + section + section > div > iframe
+main > section + section + section > div > iframe{
+    max-width:100%
+    width: 100%;
+    min-height: 600px;
+} 
